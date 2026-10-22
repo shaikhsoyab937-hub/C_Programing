@@ -1,6 +1,18 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
+///////////////////////////////////////////////////////////
+//
+//      Function Name : Dividation
+//      Input         : Interger, Interger
+//      Output        : Interter
+//      Description   :  Performs Dividetion
+//      Date          : 04/10/2026
+//      Athor         : Soyab Nijam Shaikh
+//
+//////////////////////////////////////////////////////////
+
 int Divide(int iNo1,int iNo2)
 {
     int iAns = 0;
