@@ -1,6 +1,18 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
+///////////////////////////////////////////////////////////
+//
+//      Function Name : Display
+//      Input         : Interger 
+//      Output        : Void
+//      Description   : Display * given number of times by dicrementing
+//      Date          : 22/10/2026
+//      Athor         : Soyab Nijam Shaikh
+//
+//////////////////////////////////////////////////////////
+
 void Display(int iNo)
 {
     int iCnt = 0;
