@@ -1,6 +1,18 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+////////////////////////////////////////////////////////////////
+/*
+    Function Name : Accept
+    Input         : One Integer
+    Output        : Prints the '*' symbol the given number
+                    of times.
+    Description   : Displays the specified number of stars.
+    Date          : 22/10/2026
+    Author        : Soyab Nijam Shaikh
+*/
+////////////////////////////////////////////////////////////////
+
 void Accept(int iNo)
 {
     int iCnt = 0;
