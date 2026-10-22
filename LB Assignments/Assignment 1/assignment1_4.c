@@ -1,6 +1,17 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+////////////////////////////////////////////////////////////////
+/*
+    Function Name : Check
+    Input         : One Integer
+    Output        : TRUE if divisible by 5, otherwise FALSE
+    Description   : Checks whether a number is divisible by 5.
+    Date          : 22/10/2026
+    Author        : Soyab Nijam Shaikh
+*/
+////////////////////////////////////////////////////////////////
+
 typedef int bool;
 #define TRUE 1
 #define FALSE 0
