@@ -4,10 +4,10 @@
 
 ///////////////////////////////////////////////////////////
 //
-//      Function Name : Dividation
+//      Function Name : Divide
 //      Input         : Interger, Interger
 //      Output        : Interter
-//      Description   :  Performs Dividetion
+//      Description   : Divides two number and return -1 if the divisor is zero
 //      Date          : 22/10/2026
 //      Athor         : Soyab Nijam Shaikh
 //
